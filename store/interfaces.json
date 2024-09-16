@@ -1,0 +1,7 @@
+{
+  "recipes": {
+    "component": "Recipes",
+    "composition": "children",
+    "allowed": ["search-result-layout"]
+  }
+}
